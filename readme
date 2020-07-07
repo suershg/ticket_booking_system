@@ -1,0 +1,14 @@
+
+step 1: run create_db.c 
+
+step 2: run server2.c
+	run client2.c
+
+admin credintials are added
+ id : admin@iiib.in
+ pwd : 1234
+
+login ==> works for all user, admin, agent
+signup===> works for only Normal user, Admin alone can add agents;
+
+
